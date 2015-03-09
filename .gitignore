@@ -16,3 +16,8 @@ vendor/bundle/*
 /log/*
 !/log/.keep
 /tmp
+
+*.iml
+*.ipr
+*.iws
+.idea/
